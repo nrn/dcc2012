@@ -1,0 +1,7 @@
+{ "name": "talk"
+, "version": "0.0.1a-pre"
+, "main": "talk.js"
+, "private": true
+, "dependencies": { "difflet": "*" }
+, "scripts": { "start": "vi 0*.js" }
+}
